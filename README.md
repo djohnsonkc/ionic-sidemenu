@@ -1,7 +1,7 @@
 
-Ionic 2 and Angular 2
+ionic-sidemenu: Ionic 2 and Angular 2
 =====================================
-A simple SPA app using AngularJS, Node.js, Express.js, and Grunt to demonstrate optimization and a nice file uploader.
+Simple Ionic 2 and Angular 2 app using a side menu
 
 ## This project was bootstrapped using the Ionic CLI
 
@@ -36,9 +36,9 @@ Changes to src/theme/variables.scss
 
 
 ## Adding new views to the project
--------------------------
 
-// create a new contact page
+Below is a CLI example to create a new contact page
+
 $ ionic g page contact
 
 After adding new views, make sure and add a reference to the following project files in the src/app directory:

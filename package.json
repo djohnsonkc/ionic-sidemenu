@@ -1,5 +1,5 @@
 {
-  "name": "ionic-hello-world",
+  "name": "ionic-sidemenu",
   "version": "0.0.0",
   "author": "Ionic Framework",
   "homepage": "http://ionicframework.com/",
@@ -42,5 +42,5 @@
     "ionic-plugin-keyboard"
   ],
   "cordovaPlatforms": [],
-  "description": "myApp-sidemenu: An Ionic project"
+  "description": "ionic-sidemenu: An Ionic project"
 }
