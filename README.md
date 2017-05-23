@@ -3,6 +3,8 @@ ionic-sidemenu: Ionic 2 and Angular 2
 =====================================
 Simple Ionic 2 and Angular 2 app using a side menu
 
+Having lots of experience using Angular 1 and Ionic 1, I used this app as an exercise to ramp up on the use of Ionic 2 and Angular 2 and TypeScript
+
 ## This project was bootstrapped using the Ionic CLI
 
 $ ionic start myAppName sidemenu
